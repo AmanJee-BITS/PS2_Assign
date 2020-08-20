@@ -1,0 +1,18 @@
+label{
+		display:block;
+		padding:0.25rem;
+}
+input{
+	display:block;
+	width:100%
+}
+h2{
+	text-align: center;
+}
+.submission-form{
+	max-width: 500px;
+	margin: 2rem auto;
+	border:2px solid #E74C3C;
+	padding:2rem;
+	
+}
